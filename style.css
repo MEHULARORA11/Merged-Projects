@@ -1,0 +1,24 @@
+ *{
+    padding: 0;
+    margin: 0;
+ }
+ h1{
+    color: white;
+    text-align: center;
+ }
+ body{
+    background-color:#4c2b36 ;
+    display: flex;
+    justify-content: center;
+ }
+ button{
+    background-color: #89BD9E;
+    height: 30px;
+ }
+ .main{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    width:70vw ;
+    height: 70vh
+ }
