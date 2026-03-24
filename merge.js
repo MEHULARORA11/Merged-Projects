@@ -21,7 +21,7 @@ switch(e.target.id){
         break;
         case "9" : window.open('https://rock-paper-scissor-game-taupe-tau.vercel.app/','_blank')
         break;
-        case "10" : window.open('https://my-todo-app-20.vercel.app/','_blank')
+        case "10" : window.open('https://todo.mehularora.dev','_blank')
         break;
         default:
                   
